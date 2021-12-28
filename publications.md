@@ -7,7 +7,7 @@ permalink: /publications/
 ## Conference Papers
 
 
-* **Scalable Anytime Algorithms for Learning Formulas in Linear Temporal Logic.**
+* **Scalable Anytime Algorithms for Learning Formulas in Linear Temporal Logic.**\
   [Ritam Raha](ritamraha.github.io),
   [Rajarshi Roy](https://rajarshi008.github.io/),
   [Nathanaël Fijalkow](https://nathanael-fijalkow.github.io/),
