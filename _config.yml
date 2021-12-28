@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 cover: "/cover.jpg"
-tagline: "eta tagline"
+tagline: "Doctoral Student of Computer Science"
 
 # Build settings
 #theme: jekyll-theme-hydure
