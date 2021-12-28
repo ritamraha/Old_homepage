@@ -1,14 +1,14 @@
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Academics
-  url: /academics/
+- title: Research
+  url: research.html
 - title: Publications
-  url: /publications/
+  url: publications.html
 - title: Master's Thesis
-  url: /masters/
+  url: masters.html
 - title: Resume
-  url: /resume/
+  url: resume.html
+- title: Blog
+  url: blog.html
 - title: Contact
-  url: /contact/
+  url: contact.html

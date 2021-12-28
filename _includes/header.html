@@ -1,22 +1,9 @@
-<style>
-.dp {
-    float: right;
-    height: 300px;
-    width: 300px;
-    top: 100px;
-    bottom:  50px;
-    position: relative;
-  }
-</style>
-
-
 <header class="header">
-  <div id="dp">
-      <iframe src="assets/portrait/index.html" name="targetframe" allowTransparency="true" scrolling="no" frameborder="0px" >
-      </iframe>
-  </div>
-  <a class="brand-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-  <p class="brand-tagline">{{ site.tagline }}</p>
+<div class= "portrait">  
+<iframe src="/assets/portrait/index.html" name="targetframe" allowTransparency="true" scrolling="no" frameborder="0px" style= "border:none; width: 265pt; height: 235pt; margin-left: -1.5em;" ></iframe>
+</div>
+<a class="brand-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+<p class="brand-tagline">{{ site.tagline }}</p>
 
   {% if site.data.navigation %}
     <nav class="nav pure-menu">
