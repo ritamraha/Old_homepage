@@ -26,8 +26,11 @@ baseurl: "rr_new_homepage" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+cover: "/cover.jpg"
+tagline: "eta tagline"
 
 # Build settings
+#theme: jekyll-theme-hydure
 theme: jekyll-theme-modernist
 plugins:
   - jekyll-remote-theme
