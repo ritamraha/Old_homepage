@@ -16,7 +16,7 @@ permalink: publications.html
    Tools and Algorithms for the Construction and Analysis of Systems
   ([**TACAS 2022**](https://etaps.org/2022/tacas)),_
   April 2022. \\
-  [paper](https://arxiv.org/pdf/2110.06726.pdf){: .btn .btn--primary .btn--small}
+  [paper](https://arxiv.org/pdf/2110.06726.pdf){: .btn .btn--primary .btn--small} &nbsp; &nbsp;
   [artifact](https://github.com/rajarshi008/Scarlet){: .btn .btn--primary .btn--small}
 
 
