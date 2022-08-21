@@ -91,6 +91,10 @@ scholar:
   bibliography_list_attributes:
     reversed: "reversed"
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
 exclude:
   - Gemfile
   - Gemfile.lock
